@@ -1,8 +1,5 @@
 streamlit
 pandas
-# numpy
 matplotlib
-# seaborn
-# plotly
-pickle
-scikit-learn
+scikit-learn==1.4.2
+numpy
